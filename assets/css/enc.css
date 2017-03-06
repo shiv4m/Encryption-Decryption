@@ -1,0 +1,27 @@
+article{
+    padding-top: 20px;
+}
+#footer{
+    padding-top: 50px;
+}
+textarea{
+    border-width: 2px;
+    color: black;
+    border-color: cornflowerblue;
+    background-color: #fff;
+}
+section #main{
+    margin-top: 100px;
+}
+.res{
+    font-weight: bold;
+    color: white;
+}
+ul li{
+    list-style: none;
+    display: inline;
+    padding-right: 20px;
+}
+ul li a{
+    text-decoration: none;
+}
